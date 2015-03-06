@@ -5,3 +5,13 @@ Once upon a time, there was a young lad who was skilled at the art of drawing st
 Thanks to the following: Dr. Munro for inevitably giving me a spot on varsity tennis, Dave Fan for absolutely nothing, the Hawleywood crew for taking over the KHL, BD Investments ("The Finest in Investing/3v3 Basketball") for just being awesome, Atkins for not being Clay, Spring Break, the Orlando Trip, everyone also failing BC Calc (me), everyone not failing BC Calc (not me), and to Mr. Torres for giving us a great project the week before Spring Break.
 ###Sweet Fish
 #####>o >o >o >o
+
+
+####Other Stuff
+Author:Justin Dichter
+Descripition: Clock with different pictures depending on time
+Change Log:
+(2/28) Added README, index, and logic
+(3/1) Updated README, index, and logic
+(3/2) Added CSS and Images folders
+(3/6) Deployed
