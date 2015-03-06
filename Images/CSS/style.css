@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: "Bradley Hand ITC";
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#morning {
+    background-image: url("../Images/morning.png");
+}
+
+#afternoon {
+    background-image: url("../Images/afternoon.png");
+}
+
+#evening {
+    background-image: url("../Images/evening.png");
+}
+
+#night {
+    background-image: url("../Images/night.png");
+}
